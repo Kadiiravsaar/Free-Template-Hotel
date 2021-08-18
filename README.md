@@ -1,0 +1,2 @@
+# Free-Template-Hotel
+Türkçeleştirilmiş
